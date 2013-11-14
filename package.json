@@ -1,0 +1,28 @@
+{
+  "name": "A11yCampTO2013",
+  "version": "0.0.0",
+  "description": "Presentation for Accessibility Camp Toronto 2013",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nschonni/A11yCampTO2013.git"
+  },
+  "author": "Nick Schonning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nschonni/A11yCampTO2013/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "assemble": "~0.4.7",
+    "grunt-gh-pages": "~0.7.2",
+    "grunt-sass": "~0.6.1"
+  }
+}
