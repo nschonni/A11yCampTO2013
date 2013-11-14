@@ -79,7 +79,7 @@ module.exports = (grunt) ->
 			server:
 				options:
 					port: 8000
-					base: "dist"
+					base: "."
 					keepalive: true
 					open: true
 
