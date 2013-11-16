@@ -79,9 +79,9 @@ module.exports = (grunt) ->
 			server:
 				options:
 					port: 8000
-					base: "."
+					base: "../"
 					keepalive: true
-					open: true
+					open: "A11yCampTO2013/index-en.html"
 
 
 	# These plugins provide necessary tasks.

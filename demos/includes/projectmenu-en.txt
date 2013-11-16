@@ -154,17 +154,17 @@ wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licenc
 </li>
 <li>
     <section>
-        <h3><a href="v4.0/demos/index-en.html">What's live - v3.1</a>
+        <h3><a href="/A11yCampTO2013/v4.0/demos/index-en.html">What's live - v3.1</a>
         </h3>
         <div class="mb-sm">
             <ul>
-                <li><a href="demos/tabs/tabs-en.html">Tabs</a>
+                <li><a href="/A11yCampTO2013/demos/tabs/tabs-en.html">Tabs</a>
                 </li>
-                <li><a href="demos/geomap/geomap-en.html">Geomap (OpenLayers)</a>
+                <li><a href="/A11yCampTO2013/demos/geomap/geomap-en.html">Geomap (OpenLayers)</a>
                 </li>
-                <li><a href="demos/multimedia/multimedia-en.html">Multimedia player</a>
+                <li><a href="/A11yCampTO2013/demos/multimedia/multimedia-en.html">Multimedia player</a>
                 </li>
-                <li><a href="demos/formvalid/formvalid-en.html">Form Validation</a>
+                <li><a href="/A11yCampTO2013/demos/formvalid/formvalid-en.html">Form Validation</a>
                 </li>
             </ul>
         </div>
@@ -172,19 +172,20 @@ wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licenc
 </li>
 <li>
     <section>
-        <h3><a href="v4.0/demos/index-en.html">What's next - v4.0</a>
+        <h3><a href="/A11yCampTO2013/v4.0/demos/index-en.html">What's next - v4.0</a>
         </h3>
         <div class="mb-sm">
             <ul>
-                <li><a href="v4.0/demos/tabs/tabs-en.html">Tabs</a>
+                <li><a href="/A11yCampTO2013/v4.0/index-en.html">Overview</a></li>
+                <li><a href="/A11yCampTO2013/v4.0/demos/tabs/tabs-en.html">Tabs</a>
                 </li>
-                <li><a href="v4.0/demos/session-timeout/session-timeout-en.html">Session Timeout</a>
+                <li><a href="/A11yCampTO2013/v4.0/demos/session-timeout/session-timeout-en.html">Session Timeout</a>
                 </li>
-                <li><a href="v4.0/demos/archived/archived-en.html">Archived Content</a>
+                <li><a href="/A11yCampTO2013/v4.0/demos/archived/archived-en.html">Archived Content</a>
                 </li>
-                <li><a href="v4.0/demos/data-picture/data-picture-en.html">Responsive Images</a>
+                <li><a href="/A11yCampTO2013/v4.0/demos/data-picture/data-picture-en.html">Responsive Images</a>
                 </li>
-                <li><a href="v4.0/demos/multimedia/multimedia-en.html">Multimedia player</a>
+                <li><a href="/A11yCampTO2013/v4.0/demos/multimedia/multimedia-en.html">Multimedia player</a>
                 </li>
             </ul>
         </div>
@@ -192,13 +193,13 @@ wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licenc
 </li>
 <li>
 	<div>
-	    <a href="questions-en.html">Questions</a>
+	    <a href="/A11yCampTO2013/questions-en.html">Questions</a>
 	    
 	</div>
 </li>
 <li>
 	<div>
-	    <a href="#" onClick="window.location = '../../responsive.html?' + document.URL; return false;">View Repsonsive</a>
+	    <a href="#" onClick="window.location = '/A11yCampTO2013/responsive.html?' + document.URL; return false;">View Repsonsive</a>
 	</div>
 </li>
 <!-- DataAjaxFragmentEnd -->
